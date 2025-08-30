@@ -50,7 +50,7 @@ Building products that solve real-world problems
 
 ## 💼 Featured Projects
 
-### 1. Alverge AI [https://alverge-ai-p5g7.vercel.app/](https://alverge-ai-p5g7.vercel.app/)
+### 1. [Alverge AI](https://alverge-ai-p5g7.vercel.app/)
 **A Full-Stack AI Chatbot Application**
 
 - **Description**: A comprehensive AI chatbot platform featuring user authentication, conversation management, and modern UI. Built with React frontend and Node.js/Express backend for seamless user experience.
@@ -61,7 +61,7 @@ Building products that solve real-world problems
   - Responsive design for all devices
   - Conversation history and management
 
-### 2. MediSync [https://medi-sync-dusky.vercel.app/](https://medi-sync-dusky.vercel.app/)
+### 2. [MediSync](https://medi-sync-dusky.vercel.app/)
 **Medical Appointment Booking Platform**
 
 - **Description**: A full-stack medical appointment booking system with separate dashboards for patients, doctors, and administrators. Streamlines healthcare management with intuitive interfaces.
@@ -72,7 +72,7 @@ Building products that solve real-world problems
   - Secure authentication with JWT
   - Real-time appointment updates
 
-### 3. LinkForge [https://linkforge-nine.vercel.app/](https://linkforge-nine.vercel.app/)
+### 3. [LinkForge](https://linkforge-nine.vercel.app/)
 **Modern URL Shortener**
 
 - **Description**: A high-performance, privacy-focused URL shortener built with Next.js and MongoDB. Provides seamless shortened URL creation without requiring user registration.
@@ -89,15 +89,15 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 
 ### 📬 Get In Touch
 
-- **📧 Email**: [abhishekchauhan01x@gmail.com](mailto:abhishekchauhan01x@gmail.com)
+- **📧 [Email](mailto:abhishekchauhan01x@gmail.com)**: abhishekchauhan01x@gmail.com
   - For business inquiries, project collaborations, or general questions
   - I typically respond within 24 hours
 
-- **💼 LinkedIn**: [Abhishek Chauhan](https://www.linkedin.com/in/abhishek-chauhan-9a7986299/)
+- **💼 [LinkedIn](https://www.linkedin.com/in/abhishek-chauhan-9a7986299/)**: Abhishek Chauhan
   - Connect for professional networking
   - View my complete work experience and recommendations
 
-- **💻 GitHub**: [@abhishekchauhan01x](https://github.com/abhishekchauhan01x)
+- **💻 [GitHub](https://github.com/abhishekchauhan01x)**: @abhishekchauhan01x
   - Explore my open-source projects
   - Contribute to ongoing developments
   - Check out my coding activity and contributions
