@@ -1,5 +1,6 @@
 import pic1 from './pic1.jpeg'
 import pic2 from './pic2.jpeg'
+import pic3 from './pic3.jpeg'
 import github from './github.svg'
 import mail from './mail.svg'
 import linkedln from './linkedln.svg'
@@ -19,5 +20,6 @@ export const assets = {
     ailogo,
     linkforge,
     medisync,
-    whatsapp
+    whatsapp,
+    pic3
 }

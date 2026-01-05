@@ -9,7 +9,7 @@ const Profile = () => {
         <div className="flex-shrink-0 md:self-start">
           <div className="relative rounded-full bg-gradient-to-r from-cyan-400 via-blue-400 to-violet-400">
             <img
-              src={assets.pic2}
+              src={assets.pic3}
               alt="Profile"
               className="w-32 h-32 sm:w-36 sm:h-36 md:w-40 md:h-40 rounded-full object-cover object-center shadow-2xl ring-4 ring-slate-800 transition-all duration-300"
             />
